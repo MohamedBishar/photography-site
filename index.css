@@ -1,0 +1,37 @@
+img{
+    width:300px;
+    height:250px;   
+}
+.header{
+    margin: -10px;
+    align-self: start;
+    color: chartreuse;
+}
+.picture{
+    background-color: bisque;
+    border: 5px sienna black;
+    width: 310px;
+    border-left: 20px;
+    flex-wrap: wrap;
+   height: fit-content; 
+   box-sizing: content-box;
+    border-radius:10px;
+    justify-content: space-around;
+}
+body{
+    background-color: cadetblue;
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+}
+footer{
+    color: rgb(255, 0, 128);
+}
+.tittle{
+    color:yellow;
+}
+.pics{
+    flex-wrap: wrap;
+    height: auto;
+    width: auto;
+}
