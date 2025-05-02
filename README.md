@@ -1,5 +1,5 @@
 Photography Gallery
-Welcome to Photography Gallery — a personal collection of stunning photos displayed in a clean, simple layout. Browse through the images, enjoy their beauty, and get inspired.
+Welcome to Photography Gallery — a personal collection of stunning photos displayed in a clean, simple layout. Browse through the images, enjoy their beauty, and get inspired
 
 Live Demo
 View Site (Replace with your live site URL if available)
