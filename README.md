@@ -2,7 +2,7 @@ Photography Gallery
 Welcome to Photography Gallery — a personal collection of stunning photos displayed in a clean, simple layout. Browse through the images, enjoy their beauty, and get inspired
 
 Live Demo
-View Site (Replace with your live site URL if available)
+View Site (Replace with your live site URL if available).
 
 Features
 Static Photo Gallery: Displaying a curated selection of beautiful photos.
