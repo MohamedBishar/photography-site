@@ -3,7 +3,7 @@ Welcome to Photography Gallery — a personal collection of stunning photos disp
 
 Live Demo
 View Site (Replace with your live site URL if available).
-
+.
 Features
 Static Photo Gallery: Displaying a curated selection of beautiful photos.
 
